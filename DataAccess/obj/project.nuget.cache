@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a8q/Qs4uonlV6B6X5O7eQIcVzUYehUEYNSUJo27ChQZEEj/lByW7NZF0fc0mB7a5B94y3t36pfbLSyLqRlH6Ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nebib\\source\\repos\\FınalProject\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nebib\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\nebib\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
